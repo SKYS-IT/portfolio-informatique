@@ -1,11 +1,11 @@
-*  Lab Active Directory
+# Lab Active Directory
 
-*  Objectif
+#  Objectif
 
 Déployer un environnement Active Directory permettant d'administrer
 des utilisateurs et des postes Windows au sein d'un domaine.
 
-* Environnement
+# Environnement
 
 - VirtualBox
 - Windows Server 2025
@@ -16,7 +16,7 @@ des utilisateurs et des postes Windows au sein d'un domaine.
 - Domaine : lab.local
 
 
-* Réalisations
+# Réalisations
 
 - Installation de Windows Server
 - Configuration réseau
@@ -26,14 +26,14 @@ des utilisateurs et des postes Windows au sein d'un domaine.
 - Création d'utilisateurs
 - Intégration d'un poste client au domaine
 
-* Tests
+# Tests
 
 À venir.
 
-* Difficultés rencontrées
+# Difficultés rencontrées
 
 À venir.
 
-* Compétences acquises
+# Compétences acquises
 
 À venir.
