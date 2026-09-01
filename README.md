@@ -11,8 +11,7 @@ mes compétences pratiques en informatique.
 
 - Windows Server
 - Active Directory
-- DNS
-- Réseaux TCP/IP
+- Réseaux 
 - Linux
 - Virtualisation
 - Nmap
